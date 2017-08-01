@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "565258637605",
+    "firebase_url": "https://monte-de-piedad.firebaseio.com",
+    "project_id": "monte-de-piedad",
+    "storage_bucket": "monte-de-piedad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565258637605:android:44bfd4b03ea3b9de",
+        "android_client_info": {
+          "package_name": "mx.sourcecode.nmp22016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565258637605-uttrh20qqlqncnm7tgbt3qro0ut0n0fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3SAOAUekdJyFhEgEY7vWF_EN9WMW6y9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565258637605:android:f30129e9570e8de5",
+        "android_client_info": {
+          "package_name": "mx.sourcecode.impulso.monte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565258637605-uttrh20qqlqncnm7tgbt3qro0ut0n0fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3SAOAUekdJyFhEgEY7vWF_EN9WMW6y9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
